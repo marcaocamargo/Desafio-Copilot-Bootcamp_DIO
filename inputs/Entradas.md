@@ -1,5 +1,6 @@
 ### Entradas para o Copilot
 
-1º comando: me informe as caracteristicas físicas da pessoa presente na foto, me diga qual o senttimento dele atravez da expessão dele e se você descobre onde ele estava. 
+1º comando: descreve a imagem em detalhes e do que se trata. Quais cores são predominantes no objeto e quais cores são predominantes no ambiente em que o objeto está?
 
-![blob](https://github.com/user-attachments/assets/55201f18-5e65-4e9c-8115-9e16a99762ab)
+
+![imagem-sao-rafael-resina-rica-em-detalhes-20cm-20cm](https://github.com/user-attachments/assets/5de00ceb-7bf8-4ec9-b315-84ced79ae7a7)
