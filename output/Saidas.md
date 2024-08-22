@@ -1,11 +1,11 @@
 # Saídas Copilot
 
-*1º comando:*  
+## **_Primeiro comando:_**  
 A imagem mostra uma estátua de um anjo com asas, segurando um pássaro na mão esquerda e um cajado na mão direita. A estátua é predominantemente de cor bege com detalhes em dourado nas asas, vestimenta e base.
 
 O ambiente ao redor da estátua parece ser um jardim, com grama verde e algumas plantas ao fundo. As cores predominantes no objeto são bege e dourado, enquanto no ambiente ao redor, as cores predominantes são verde e marrom.
 
-*2º comando:*  
+## **_Segundo comando:_**  
 Claro! Aqui está um planejamento de treino para você:
 
 ### Treino de Academia (Segunda, Quarta e Sexta)
@@ -64,7 +64,7 @@ Claro! Aqui está um planejamento de treino para você:
 
 Lembre-se de ajustar a intensidade e os pesos conforme seu nível de condicionamento físico. E não se esqueça de manter uma alimentação equilibrada para potencializar os resultados! Se precisar de mais alguma coisa, estou aqui para ajudar. 💪😊
 
-*3º comando:*  
+## **_Terceiro comando:_**  
 Claro! Aqui estão os detalhes dos alongamentos estáticos focados para os treinos de terça e quinta:
 
 ### Terça-feira: Foco em Ombros e Costas
